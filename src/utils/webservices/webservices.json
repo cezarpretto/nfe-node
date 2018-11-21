@@ -1,0 +1,53 @@
+{
+  "urlPortal": "http://www.portalfiscal.inf.br/nfe",
+  "consultaCadastro": {
+    "versao": "2.00",
+    "urlNamespace": "/wsdl/CadConsultaCadastro4",
+    "func": "consultaCadastro",
+    "urls": [
+      { "uf": "AM", "producao": "", "homologacao": "" },
+      {
+        "uf": "BA",
+        "producao": "https://nfe.sefaz.ba.gov.br/webservices/CadConsultaCadastro4/CadConsultaCadastro4.asmx",
+        "homologacao": "https://hnfe.sefaz.ba.gov.br/webservices/CadConsultaCadastro4/CadConsultaCadastro4.asmx"
+      }
+    ]
+  },
+  "statusServicoNF": {
+    "versao": "4.00",
+    "urlNamespace": "/wsdl/NfeStatusServico4",
+    "func": "nfeStatusServicoNF",
+    "urls": [
+      {
+        "uf": "AM",
+        "producao": "https://nfe.sefaz.am.gov.br/services2/services/NfeStatusServico4",
+        "homologacao": "https://homnfe.sefaz.am.gov.br/services2/services/NfeStatusServico4"
+      },
+      {
+        "uf": "BA",
+        "producao": "https://nfe.sefaz.ba.gov.br/webservices/NFeStatusServico4/NFeStatusServico4.asmx",
+        "homologacao": "https://hnfe.sefaz.ba.gov.br/webservices/NFeStatusServico4/NFeStatusServico4.asmx"
+      },
+      {
+        "uf": "CE",
+        "producao": "https://nfe.sefaz.ce.gov.br/nfe4/services/NFeStatusServico4",
+        "homologacao": "https://nfeh.sefaz.ce.gov.br/nfe4/services/NFeStatusServico4"
+      },
+      {
+        "uf": "GO",
+        "producao": "https://nfe.sefaz.go.gov.br/nfe/services/NFeStatusServico4",
+        "homologacao": "https://homolog.sefaz.go.gov.br/nfe/services/NFeStatusServico4"
+      },
+      {
+        "uf": "MT",
+        "producao": "https://nfe.sefaz.mt.gov.br/nfews/v2/services/NfeStatusServico4",
+        "homologacao": "https://homologacao.sefaz.mt.gov.br/nfews/v2/services/NfeStatusServico4"
+      }
+    ]
+  },
+  "consultaProtocolo": {
+    "versao": "4.00",
+    "urlNamespace": "/wsdl/NfeConsulta4",
+    "func": "nfeConsultaNF"
+  }
+}

@@ -1,0 +1,83 @@
+{
+  "RO": {
+    "ibgeCode": "11"
+  },
+  "AC": {
+    "ibgeCode": "12"
+  },
+  "AM": {
+    "ibgeCode": "13"
+  },
+  "RR": {
+    "ibgeCode": "14"
+  },
+  "PA": {
+    "ibgeCode": "15"
+  },
+  "AP": {
+    "ibgeCode": "16"
+  },
+  "TO": {
+    "ibgeCode": "17"
+  },
+  "MA": {
+    "ibgeCode": "21"
+  },
+  "PI": {
+    "ibgeCode": "22"
+  },
+  "CE": {
+    "ibgeCode": "23"
+  },
+  "RN": {
+    "ibgeCode": "24"
+  },
+  "PB": {
+    "ibgeCode": "25"
+  },
+  "PE": {
+    "ibgeCode": "26"
+  },
+  "AL": {
+    "ibgeCode": "27"
+  },
+  "SE": {
+    "ibgeCode": "28"
+  },
+  "BA": {
+    "ibgeCode": "29"
+  },
+  "MG": {
+    "ibgeCode": "31"
+  },
+  "ES": {
+    "ibgeCode": "32"
+  },
+  "RJ": {
+    "ibgeCode": "33"
+  },
+  "SP": {
+    "ibgeCode": "35"
+  },
+  "PR": {
+    "ibgeCode": "41"
+  },
+  "SC": {
+    "ibgeCode": "42"
+  },
+  "RS": {
+    "ibgeCode": "43"
+  },
+  "MS": {
+    "ibgeCode": "50"
+  },
+  "MT": {
+    "ibgeCode": "51"
+  },
+  "GO": {
+    "ibgeCode": "52"
+  },
+  "DF": {
+    "ibgeCode": "53"
+  }
+}
